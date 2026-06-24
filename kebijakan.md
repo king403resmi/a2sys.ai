@@ -1,34 +1,34 @@
 ---
-layout: tech
-title: "Kebijakan Privasi KING403 Systems"
-description: "Kebijakan privasi king403.a2sys.ai: data minimal, tanpa layanan judi, transparansi portal verifikasi."
-keywords: "kebijakan privasi KING403, king403.a2sys.ai, data portal"
+layout: academy
+title: "Kebijakan Privasi KING403 Academy"
+description: "Kebijakan privasi king403.andi.ac: data minimal, portal edukatif tanpa layanan judi."
+keywords: "kebijakan privasi KING403 Academy"
 nav: kebijakan
 permalink: /kebijakan/
 ---
-# Kebijakan Privasi Portal Systems
+# Kebijakan Privasi Portal Academy
 
-Portal king403.a2sys.ai adalah situs informasi brand. Kebijakan ini menjelaskan penanganan data pengunjung secara minimal dan transparan.
+Portal king403.andi.ac situs informasi edukatif statis.
 
-## Data yang Dikumpulkan
+## Data
 
-Portal statis tidak meminta registrasi atau formulir data sensitif. Log hosting dapat mencatat IP dan user-agent secara anonim untuk keamanan operasional.
+Tanpa registrasi atau formulir sensitif. Log hosting: IP/user-agent anonim untuk keamanan.
 
-## Penggunaan Informasi
+## Penggunaan
 
-Data teknis hanya untuk keamanan portal dan analisis traffic agregat. KING403 **tidak** menjual data pengunjung atau menggunakannya untuk promosi judi.
+Keamanan portal dan analisis agregat. Tidak dijual. Tidak untuk promosi judi.
 
 ## Cookie
 
-Cookie teknis minimal mungkin digunakan untuk fungsi hosting. Tidak ada cookie pelacakan iklan taruhan.
+Cookie teknis minimal. Tanpa pelacakan iklan taruhan.
 
 ## Hak Pengunjung
 
-Permintaan informasi data teknis: [hello@king403.com](mailto:hello@king403.com).
+Permintaan info: [hello@king403.com](mailto:hello@king403.com).
 
 ## Pembaruan
 
-Kebijakan dapat diperbarui; perubahan material dicantumkan di halaman ini. Terakhir diperbarui sesuai tanggal build portal.
+Kebijakan dapat diperbarui; perubahan dicantumkan di halaman ini.
 
 ## Halaman Terkait
 

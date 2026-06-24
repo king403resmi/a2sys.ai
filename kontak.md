@@ -1,32 +1,33 @@
 ---
-layout: tech
-title: "Kontak KING403 Systems | hello@king403.com"
-description: "Hubungi KING403 Systems via hello@king403.com untuk verifikasi brand, laporan situs palsu, atau pertanyaan infrastruktur."
-keywords: "kontak KING403 Systems, hello@king403.com, verifikasi brand"
+layout: academy
+title: "Kontak KING403 Academy | hello@king403.com"
+description: "Hubungi KING403 Academy via hello@king403.com untuk pertanyaan kurikulum, verifikasi brand, pelaporan situs palsu."
+keywords: "kontak KING403 Academy, hello@king403.com"
 nav: kontak
 permalink: /kontak/
 ---
-# Saluran Kontak Systems
+# Saluran Kontak Academy
 
 ## Email Resmi
 
-**[hello@king403.com](mailto:hello@king403.com)** — Saluran utama untuk:
+**[hello@king403.com](mailto:hello@king403.com)**
 
-- Verifikasi identitas brand dan domain
-- Pelaporan situs judi/slot yang mengeksploitasi nama KING403
-- Pertanyaan teknis tentang king403.a2sys.ai
-- Korespondensi korporat terkait infrastruktur portal
+Untuk:
 
-## Situs Referensi
+- Pertanyaan kurikulum dan materi academy
+- Verifikasi identitas brand
+- Pelaporan situs judi berlabel KING403
+- Korespondensi korporat edukasi brand
 
-- [king403.it.com](https://king403.it.com/) — Portal resmi utama brand
-- Portal korporat resmi KING403 — Profil perusahaan dan referensi silang
+## Referensi
 
-## Waktu Respons
+- [king403.it.com](https://king403.it.com/) — Portal resmi utama
 
-Tim berupaya merespons dalam **1–3 hari kerja**. Untuk laporan domain palsu mendesak, sertakan URL lengkap dan bukti visual.
+## Catatan
 
-> Jangan mempercayai kontak di situs slot yang mengklaim mewakili KING403. Domain resmi selalu tercantum di king403.it.com.
+Academy tidak memiliki layanan live chat taruhan atau CS permainan.
+
+Waktu respons: 1–3 hari kerja.
 
 ## Halaman Terkait
 

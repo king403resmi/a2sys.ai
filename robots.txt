@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://king403.a2sys.ai/sitemap.xml
+Sitemap: https://king403.andi.ac/sitemap.xml

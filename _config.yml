@@ -1,7 +1,7 @@
-title: KING403 Systems
-site_name: KING403 Systems
-description: Presensi digital & sistem brand resmi
-url: https://king403.a2sys.ai
+title: KING403 Academy
+site_name: KING403 Academy
+description: Edukasi & literasi brand digital
+url: https://king403.andi.ac
 baseurl: ""
 lang: id
 theme: null
@@ -14,8 +14,8 @@ plugins:
 official_brand: https://king403.it.com/
 official_support: https://url.apidevel.org/king403-support
 
-theme_bg: #040810
-site_layout: tech
+theme_bg: #060a14
+site_layout: academy
 
 same_as:
   - https://king403.it.com/

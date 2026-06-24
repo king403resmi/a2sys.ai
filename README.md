@@ -1,4 +1,4 @@
-# KING403 Systems
+# KING403 Academy
 
 Portal brand KING403 - **Jekyll + Markdown** untuk GitHub Pages.
 

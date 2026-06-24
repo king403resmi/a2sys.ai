@@ -1,35 +1,33 @@
 ---
-layout: tech
-title: "Profil Digital KING403 Systems | Jejak Teknis Resmi"
-description: "Profil digital KING403 Systems: jejak otomasi, referensi king403.it.com, dan panduan verifikasi identitas brand."
-keywords: "profil digital KING403, jejak systems, ekosistem brand resmi"
+layout: academy
+title: "Profil Digital KING403 Academy | Jejak Edukasi Resmi"
+description: "Profil digital KING403 Academy: jejak edukatif brand, referensi king403.it.com, kompetensi literasi digital."
+keywords: "profil digital KING403 Academy, jejak edukasi, brand resmi"
 nav: profil
 permalink: /profil-digital/
 ---
-# Profil Digital & Jejak Systems
+# Profil Digital — Sudut Pandang Akademik
 
-Halaman ini merangkum **identitas digital KING403 Systems** sebagai node otomasi dalam jaringan resmi brand. Generator situs menambahkan daftar ekosistem lengkap di bawah; halaman ini fokus pada jejak dan kemampuan profil digital.
+Halaman ini merangkum **jejak digital KING403 Academy** sebagai node edukatif. Daftar ekosistem portal ditampilkan otomatis di bawah.
 
-## Sumber Kebenaran Identitas
+## Identitas Digital Academy
 
-| Saluran | Peran |
-|---------|-------|
-| [king403.it.com](https://king403.it.com/) | Situs resmi utama brand |
-| hello@king403.com | Kontak resmi verifikasi & pelaporan |
-| king403.a2sys.ai | Node systems & infrastruktur (portal ini) |
+| Aspek | Detail |
+|-------|--------|
+| Fokus | Literasi digital, kurikulum verifikasi brand |
+| Domain | king403.andi.ac |
+| Audiens | Publik Indonesia, fasilitator, mitra |
+| Kontak | hello@king403.com |
 
-## Kemampuan Profil Digital
+## Kompetensi Jejak Digital
 
-- **Peta arsitektur brand** — Visualisasi konseptual hubungan antar node verifikasi
-- **Jejak cross-domain** — Pelacakan konsistensi identitas di portal sister site
-- **Checklist verifikasi** — Langkah praktis membedakan resmi vs palsu
-- **Metadata terbuka** — Informasi brand yang dapat diaudit mitra teknologi
+Academy membangun profil digital yang menekankan **pendidikan dan verifikasi**—bukan engagement permainan. Jejak sehat brand teknologi adalah jejak yang dapat diaudit tanpa konten taruhan.
 
-## Prinsip Jejak Digital
+## Referensi
 
-KING403 tidak mengejar footprint permainan online. Jejak digital yang dibangun adalah jejak **teknologi, edukasi, dan kepatuhan brand**—bukan promosi taruhan.
+Semua materi academy merujuk ke [king403.it.com](https://king403.it.com/) sebagai sumber kebenaran identitas.
 
-Untuk pertanyaan profil digital: [hello@king403.com](mailto:hello@king403.com).
+Pertanyaan: [hello@king403.com](mailto:hello@king403.com).
 
 ## Ekosistem Digital
 
@@ -41,9 +39,9 @@ Untuk pertanyaan profil digital: [hello@king403.com](mailto:hello@king403.com).
 
 ## Subdomain Brand (13 Portal)
 
-- **KING403 Systems** *(portal ini)*
+- [KING403 Systems](https://king403.a2sys.ai/)
 - [KING403 Abstract](http://king403.abstraction.blog/)
-- [KING403 Academy](https://king403.andi.ac/)
+- **KING403 Academy** *(portal ini)*
 - [KING403 Africa Hub](https://king403.andytudhope.africa/)
 - [KING403 Life](https://king403.def.life/)
 - [KING403 School](https://king403.dogskool.com/)

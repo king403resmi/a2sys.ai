@@ -1,40 +1,41 @@
 ---
-layout: tech
-title: "Tentang KING403 Systems | Profil Teknis Resmi"
-description: "Profil KING403 Systems: perusahaan teknologi digital Indonesia sejak 2020, fokus otomasi, infrastruktur, dan pipeline sistem—bukan judi."
-keywords: "tentang KING403 Systems, king403.a2sys.ai, otomasi digital, infrastruktur brand"
+layout: academy
+title: "Tentang KING403 Academy | Misi Edukasi Brand Digital"
+description: "Profil KING403 Academy: portal edukasi literasi digital dan verifikasi brand, perusahaan teknologi Indonesia sejak 2020."
+keywords: "tentang KING403 Academy, literasi digital, edukasi brand"
 nav: tentang
 permalink: /tentang/
 ---
-# Tentang KING403 Systems
+# Tentang KING403 Academy
 
-KING403 Systems lahir dari kebutuhan **presensi teknis yang transparan** bagi brand KING403 di ranah otomasi dan infrastruktur digital. Sejak 2020, perusahaan ini beroperasi sebagai entitas teknologi Indonesia yang menolak segala asosiasi dengan perjudian, slot online, atau promosi taruhan.
+**KING403 Academy** (king403.andi.ac) adalah portal edukatif resmi dalam jaringan verifikasi brand KING403. Misi academy: meningkatkan **literasi digital** tentang identitas brand, verifikasi portal, dan navigasi aman di ekosistem online.
 
-## Latar Belakang
+## Konteks Pendirian
 
-Ketika nama KING403 mulai disalahgunakan domain judi tiruan, tim engineering merancang jaringan portal verifikasi sebagai respons defensif sekaligus edukatif. Fokus awal pada dokumentasi otomasi berkembang menjadi ekosistem puluhan node resmi dengan sudut pandang berbeda namun pesan konsisten.
+Sejak 2020, KING403 beroperasi sebagai perusahaan teknologi digital Indonesia. Penyalahgunaan nama brand oleh operator judi online mendorong tim brand digital menciptakan portal edukatif—Academy—agar publik memiliki materi terstruktur untuk belajar memverifikasi sumber.
 
-## Visi
+## Visi Academy
 
-Menjadi referensi verifikasi brand KING403 yang andal di ekosistem sistem dan otomasi digital Asia Tenggara, dengan standar transparansi yang dapat diaudit publik dan mitra.
+Menjadi referensi edukasi brand digital terbuka untuk publik Indonesia: gratis, transparan, tanpa agenda permainan taruhan.
 
-## Misi Operasional
+## Misi Pembelajaran
 
-- Menyediakan king403.a2sys.ai sebagai sumber kebenaran identitas dalam ranah otomasi
-- Mengedukasi publik tentang perbedaan KING403 teknologi versus situs judi palsu
-- Menjaga navigasi terpusat menuju [king403.it.com](https://king403.it.com/) dan [hello@king403.com](mailto:hello@king403.com)
-- Mendokumentasikan praktik infrastruktur yang mendukung operasi brand secara etis
+1. Menyediakan kurikulum literasi digital tentang identitas KING403
+2. Melatih kemampuan deteksi situs palsu berlabel king403
+3. Menghubungkan peserta ke sumber resmi [king403.it.com](https://king403.it.com/)
+4. Mendukung pelaporan domain anomali via hello@king403.com
 
-## Nilai Engineering
+## Academy Bukan
 
-| Nilai | Implementasi |
-|-------|--------------|
-| Integritas Teknis | Dokumentasi jelas, jejak audit terbuka |
-| Transparansi Brand | Pesan eksplisit: teknologi, bukan judi |
-| Keamanan Navigasi | Tautan resmi dikurasi, anti-domain palsu |
-| Kolaborasi Ekosistem | Selaras dengan portal sister domain |
+- Platform kursus slot atau strategi taruhan
+- Portal affiliate judi online
+- Layanan registrasi permainan
 
-Portal ini bagian resmi jejak digital KING403. Informasi korporat lengkap: [king403.it.com](https://king403.it.com/).
+## Tim Pengajar (Konseptual)
+
+Materi academy disusun tim brand digital KING403 dengan review engineering untuk akurasi teknis verifikasi domain.
+
+Pertanyaan kurikulum: [hello@king403.com](mailto:hello@king403.com).
 
 ## Halaman Terkait
 
